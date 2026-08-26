@@ -6,14 +6,14 @@ I created this project to understand how different prompting techniques influenc
 
 ## 📚 Concepts Practiced
 
-* LLM Architecture Messaging
-* System, User, and Assistant Roles
-* Zero-shot Learning: Giving the model a task without providing examples
-* Few-shot Learning: Providing examples to guide the model toward the expected response
-* Chain of Thought (CoT): Encouraging the model to work through a problem step by step
-* Tree of Thoughts (ToT): Exploring and comparing multiple possible approaches before selecting a suitable one
-* Temperature and model configuration: Understanding how temperature affects the creativity and consistency of LLM responses, and how different model configurations can influence the output
-* Working with the Gemini API
+* **LLM Architecture Messaging**
+* **System, User, and Assistant Roles**
+* **Zero-shot Learning**: Giving the model a task without providing examples
+* **Few-shot Learning**: Providing examples to guide the model toward the expected response
+* **Chain of Thought (CoT)**: Encouraging the model to work through a problem step by step
+* **Tree of Thoughts (ToT)**: Exploring and comparing multiple possible approaches before selecting a suitable one
+* **Temperature and model configuration**: Understanding how temperature affects the creativity and consistency of LLM responses, and how different model configurations can influence the output
+* **Working with the Gemini API**
 
 ## 🛠️ Technologies Used
 
