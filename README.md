@@ -4,6 +4,8 @@ This repository contains my **hands-on practice and learning journey in Prompt E
 
 I created this project to understand how different prompting techniques influence the responses of Large Language Models (LLMs). Instead of only learning the concepts theoretically, I practiced them through Python code and interactive Jupyter Notebook cells.
 
+---
+
 ## 📚 Concepts Practiced
 
 * **LLM Architecture Messaging**
@@ -15,6 +17,8 @@ I created this project to understand how different prompting techniques influenc
 * **Temperature and model configuration**: Understanding how temperature affects the creativity and consistency of LLM responses, and how different model configurations can influence the output
 * **Working with the Gemini API**
 
+---
+
 ## 🛠️ Technologies Used
 
 * Python
@@ -24,11 +28,15 @@ I created this project to understand how different prompting techniques influenc
 * Python-dotenv
 * VS Code
 
+---
+
 ## 🎯 Purpose
 
 The main purpose of this repository is to **practice and strengthen my understanding of Prompt Engineering** by experimenting with different prompting approaches and observing how they affect LLM responses.
 
 Working with the concepts practically helps me understand not only **what each technique is**, but also **how and when it can be used**.
+
+---
 
 ## 📓 Learning Approach
 
@@ -43,6 +51,8 @@ Each concept can be tested independently, making it easier to:
 * Understand prompt behavior
 * Build practical Prompt Engineering skills
 
+---
+
 ## 🔐 API Key Security
 
 The Gemini API key is stored in an environment variable using a `.env` file.
@@ -51,11 +61,15 @@ The `.env` file is excluded from GitHub using `.gitignore`.
 
 **Never share or commit your API key publicly.**
 
+---
+
 ## 🚀 Learning Journey
 
 This repository represents part of my ongoing journey of exploring **Generative AI, Large Language Models, and Prompt Engineering**.
 
 I believe that practical experimentation is one of the best ways to understand AI technologies and build a strong foundation for working with LLM-based applications.
+
+---
 
 ## 💡 Feedback
 
